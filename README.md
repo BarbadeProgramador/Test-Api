@@ -1,4 +1,4 @@
-# ESQUEMA TEST - COINK
+# TEST - COINK
 
 ## Patrón de diseño
 MVC
