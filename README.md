@@ -18,6 +18,8 @@ Postgres
 
 ## Endpoints
 Métodos de inserción: **POST**
+![image](https://github.com/user-attachments/assets/5deda80a-136c-475a-af91-532c68cb2d25)
+
 
 ## Paquetes NuGet utilizados
 - EntityFrameworkCore
